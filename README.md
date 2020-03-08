@@ -2,7 +2,7 @@
 SAS certificates
 
 certyfikaty:
-SAS Certified Professional: Advanced Programming Using SAS 9.4 (A00-232) wynik egzaminu 84%
+SAS Certified Professional: Advanced Programming Using SAS 9.4 (A00-232) wynik egzaminu 84% \n
 SAS Certified Specialist: Base Programming Using SAS 9.4 (A00-231) wynik egzaminu 96%
 
 kursy udemy:
