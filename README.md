@@ -6,7 +6,7 @@ SAS Certified Professional: Advanced Programming Using SAS 9.4 (A00-232) - exam 
 SAS Certified Specialist: Base Programming Using SAS 9.4 (A00-231) - exam result 96%  
 
 udemy courses:  
-The Simplest Guide™ to SAS Programming*SAS Base*SAS Advanced – Aslam Khan  
+The Simplest Guide™ to SAS Programming, SAS Base, SAS Advanced – Aslam Khan  
 SAS Programming Advanced Certification Prep Course: 3 in 1 – Sharon Cheng  
 
 books:  
